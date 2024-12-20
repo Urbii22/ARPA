@@ -1,0 +1,2 @@
+﻿parent.obj : error LNK2005: ya se definió main en child.obj
+C:\Users\urban\DIEGO\UBU 4º\1ºSemestre\Arquitecturas Paralelas\PRACTICAS\P8\x64\Debug\P8.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente

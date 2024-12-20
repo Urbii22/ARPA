@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\urban\\DIEGO\\UBU 4\u00BA\\1\u00BASemestre\\Arquitecturas Paralelas\\PRACTICAS\\P2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA638A2E-B7CC-4D99-AFAF-461EB039CC6E}|P2\\P2.vcxproj|C:\\Users\\urban\\DIEGO\\UBU 4\u00BA\\1\u00BASemestre\\Arquitecturas Paralelas\\PRACTICAS\\P2\\P2\\P2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA638A2E-B7CC-4D99-AFAF-461EB039CC6E}|P2\\P2.vcxproj|solutionrelative:P2\\P2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P2.cpp",
+              "DocumentMoniker": "C:\\Users\\urban\\DIEGO\\UBU 4\u00BA\\1\u00BASemestre\\Arquitecturas Paralelas\\PRACTICAS\\P2\\P2\\P2.cpp",
+              "RelativeDocumentMoniker": "P2\\P2.cpp",
+              "ToolTip": "C:\\Users\\urban\\DIEGO\\UBU 4\u00BA\\1\u00BASemestre\\Arquitecturas Paralelas\\PRACTICAS\\P2\\P2\\P2.cpp",
+              "RelativeToolTip": "P2\\P2.cpp",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T08:14:28.102Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

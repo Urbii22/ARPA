@@ -1,4 +1,0 @@
-﻿  IA.cpp
-C:\Users\urban\DIEGO\UBU 4º\1ºSemestre\Arquitecturas Paralelas\PRACTICAS\Prueba_Plantilla\Prueba_Plantilla\IA.cpp(38,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-P3.obj : error LNK2005: ya se definió main en IA.obj
-C:\Users\urban\DIEGO\UBU 4º\1ºSemestre\Arquitecturas Paralelas\PRACTICAS\P3\x64\Debug\P3.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente

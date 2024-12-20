@@ -1,0 +1,4 @@
+﻿  child.cpp
+C:\Users\urban\DIEGO\UBU 4º\1ºSemestre\Arquitecturas Paralelas\PRACTICAS\P8\HIJO\child.cpp(41,55): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\urban\DIEGO\UBU 4º\1ºSemestre\Arquitecturas Paralelas\PRACTICAS\P8\HIJO\child.cpp(50,59): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  HIJO.vcxproj -> C:\Users\urban\DIEGO\UBU 4º\1ºSemestre\Arquitecturas Paralelas\PRACTICAS\P8\x64\Debug\HIJO.exe

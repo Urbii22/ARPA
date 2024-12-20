@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\urban\\DIEGO\\UBU 4\u00BA\\1\u00BASemestre\\Arquitecturas Paralelas\\PRACTICAS\\P8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC3D7BF-B981-4337-B735-47293918A9D4}|HIJO\\HIJO.vcxproj|C:\\Users\\urban\\DIEGO\\UBU 4\u00BA\\1\u00BASemestre\\Arquitecturas Paralelas\\PRACTICAS\\P8\\HIJO\\child.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFC3D7BF-B981-4337-B735-47293918A9D4}|HIJO\\HIJO.vcxproj|solutionrelative:HIJO\\child.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120F3F77-814F-49CA-A51C-A661CFBF6E98}|PADRE\\PADRE.vcxproj|C:\\Users\\urban\\DIEGO\\UBU 4\u00BA\\1\u00BASemestre\\Arquitecturas Paralelas\\PRACTICAS\\P8\\PADRE\\parent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{120F3F77-814F-49CA-A51C-A661CFBF6E98}|PADRE\\PADRE.vcxproj|solutionrelative:PADRE\\parent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 291,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "parent.cpp",
+              "DocumentMoniker": "C:\\Users\\urban\\DIEGO\\UBU 4\u00BA\\1\u00BASemestre\\Arquitecturas Paralelas\\PRACTICAS\\P8\\PADRE\\parent.cpp",
+              "RelativeDocumentMoniker": "PADRE\\parent.cpp",
+              "ToolTip": "C:\\Users\\urban\\DIEGO\\UBU 4\u00BA\\1\u00BASemestre\\Arquitecturas Paralelas\\PRACTICAS\\P8\\PADRE\\parent.cpp",
+              "RelativeToolTip": "PADRE\\parent.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T08:13:58.002Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "child.cpp",
+              "DocumentMoniker": "C:\\Users\\urban\\DIEGO\\UBU 4\u00BA\\1\u00BASemestre\\Arquitecturas Paralelas\\PRACTICAS\\P8\\HIJO\\child.cpp",
+              "RelativeDocumentMoniker": "HIJO\\child.cpp",
+              "ToolTip": "C:\\Users\\urban\\DIEGO\\UBU 4\u00BA\\1\u00BASemestre\\Arquitecturas Paralelas\\PRACTICAS\\P8\\HIJO\\child.cpp",
+              "RelativeToolTip": "HIJO\\child.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T08:14:42.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+﻿  P5.cpp
+C:\Users\urban\DIEGO\UBU 4º\1ºSemestre\Arquitecturas Paralelas\PRACTICAS\P5\P5\P5.cpp(59,16): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\urban\DIEGO\UBU 4º\1ºSemestre\Arquitecturas Paralelas\PRACTICAS\P5\P5\P5.cpp(81,46): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\urban\DIEGO\UBU 4º\1ºSemestre\Arquitecturas Paralelas\PRACTICAS\P5\P5\P5.cpp(96,44): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+  P5.vcxproj -> C:\Users\urban\DIEGO\UBU 4º\1ºSemestre\Arquitecturas Paralelas\PRACTICAS\P5\x64\Debug\P5.exe
